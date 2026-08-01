@@ -1,4 +1,4 @@
-# 🎯 AI Resume Analyzer — Powered by Google Gemini
+# 🎯 AI Resume Analyzer 
 
 > Upload your resume and get instant AI-powered analysis — ATS score, skills gap, job role match, bullet point rewrites, and a personalized improvement roadmap.
 
